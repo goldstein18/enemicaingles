@@ -14758,6 +14758,7 @@ background:#005B27;
        padding:35px 30px 35px 30px;
     box-shadow: 0px 0px 17px -1px rgba(0, 0, 0, 0.05);
 	margin-bottom:30px;
+	min-height:414px;
 }
 
 .pure-service_area .service-item i {
