@@ -36,3 +36,12 @@
  
   }
 
+
+  @media (max-width: 767px) {
+      #big-title{
+
+        font-size: 50px !important; 
+
+ 
+  }
+
